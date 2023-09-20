@@ -1,0 +1,71 @@
+body{ 
+  background-color: blanchedalmond;
+  font-size: large;
+}
+div {
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+}
+#favheaders {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  font-weight: bolder;
+  text-decoration: underline 2px;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+} 
+
+.fixed {
+  text-align: center;
+}
+
+.listcent {
+  display: inline-block;
+  text-align: left;
+}
+#coverimg{
+  border: lightblue;
+  border-radius: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pfp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border: black outset 6px; 
+  border-radius: 5px;
+}
+
+p { text-align: center;
+    font-family: monospace;
+    font-weight: bold; 
+}
+
+li{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: rgb(55, 87, 228);
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: monospace;
+  border: solid black 8px;
+  border-radius: 5px;
+}
+
+.purplebk { 
+  background-color: blueviolet;
+  text-align: center;
+}
